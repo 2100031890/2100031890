@@ -3,22 +3,44 @@
 ### 🚀 About Me
 I am a Computer Science and Engineering student at KL University with a current CGPA of 9.85. I have a strong passion for technology and programming, and I am skilled in a wide range of programming languages and frameworks.I am committed to constant learning and staying updated on recent advancements in the fields
 
-### 💻 Programming Skills
-- **Languages:** C, Java, Python, SQL
-- **Web Development:**
-  - Java Full Stack (Spring Boot, Microservices)
-  - Django
-  - MERN Stack (MongoDB, Express, React, Node.js)
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Databases:** SQL, PostgreSQL, MongoDB
+-📫 You can reach me at <a href="mailto:2100031890cseh@gmail.com">GMail</a>
+### 💻 Programming and Web Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+</div>
 
 ### 🧠 Technical Expertise
 - **Data Structures and Algorithms**
-- **Machine Learning:** Proficient in techniques, feature engineering, and model evaluation
-- **Deep Learning:** Familiar with advanced concepts and frameworks like TensorFlow
-
-### 📫 How to Reach Me
-- **Email:** <a href="mailto:2100031890cseh@gmail.com">GMail</a>
+**Machine Learning:** 
+  - **Techniques:** Skilled in supervised and unsupervised learning techniques including regression, classification, clustering, and dimensionality reduction.
+  - **Feature Engineering:** Proficient in preprocessing data, selecting and transforming features to improve model performance.
+- **Deep Learning:** 
+  - **Concepts:** Familiar with advanced deep learning concepts such as Neural Networks,CNNs,RNNs, LSTMs, and GAN.
+  - **Frameworks:** Experienced with deep learning frameworks like TensorFlow and Keras for building, training, and deploying deep learning models.
 
 ### 🌐 Socials
-<a href="https://linkedin.com/in/revanth-chandragiri/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="jest logo"  /></a>
+<a href="https://linkedin.com/in/revanth-chandragiri/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="40" alt="linkedin logo"  /></a>
+<a href="https://github.com/2100031890/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="40" alt="github logo"  /></a>
