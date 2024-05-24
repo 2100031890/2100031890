@@ -33,7 +33,6 @@ I am a Computer Science and Engineering student at KL University with a current 
 </div>
 
 ### 🧠 Technical Expertise
-- **Data Structures and Algorithms**
 **Machine Learning:** 
   - **Techniques:** Skilled in supervised and unsupervised learning techniques including regression, classification, clustering, and dimensionality reduction.
   - **Feature Engineering:** Proficient in preprocessing data, selecting and transforming features to improve model performance.
