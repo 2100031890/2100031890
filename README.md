@@ -4,6 +4,8 @@
 I am a Computer Science and Engineering student at KL University with a current CGPA of 9.85. I have a strong passion for technology and programming, and I am skilled in a wide range of programming languages and frameworks.I am committed to constant learning and staying updated on recent advancements in the fields
 
 -📫 You can reach me at <a href="mailto:2100031890cseh@gmail.com">GMail</a>
+ 
+
 ### 💻 Programming and Web Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="nodejs logo"  />
@@ -32,6 +34,7 @@ I am a Computer Science and Engineering student at KL University with a current 
   <img width="12" />
 </div>
 
+
 ### 🧠 Technical Expertise
 **Machine Learning:** 
   - **Techniques:** Skilled in supervised and unsupervised learning techniques including regression, classification, clustering, and dimensionality reduction.
@@ -40,6 +43,6 @@ I am a Computer Science and Engineering student at KL University with a current 
   - **Concepts:** Familiar with advanced deep learning concepts such as Neural Networks,CNNs,RNNs, LSTMs, and GAN.
   - **Frameworks:** Experienced with deep learning frameworks like TensorFlow and Keras for building, training, and deploying deep learning models.
 
-### 🌐 Socials
+## 🌐 Socials
 <a href="https://linkedin.com/in/revanth-chandragiri/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="40" alt="linkedin logo"  /></a>
 <a href="https://github.com/2100031890/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="40" alt="github logo"  /></a>
