@@ -42,7 +42,3 @@ I am a Computer Science and Engineering student at KL University with a current 
 - **Deep Learning:** 
   - **Concepts:** Familiar with advanced deep learning concepts such as Neural Networks,CNNs,RNNs, LSTMs, and GAN.
   - **Frameworks:** Experienced with deep learning frameworks like TensorFlow and Keras for building, training, and deploying deep learning models.
-
-## 🌐 Socials
-<a href="https://linkedin.com/in/revanth-chandragiri/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="40" alt="linkedin logo"  /></a>
-<a href="https://github.com/2100031890/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="40" alt="github logo"  /></a>
