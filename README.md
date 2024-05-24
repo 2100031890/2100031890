@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**2100031890/2100031890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a Computer Science and Engineering student at KL University with a current CGPA of 9.85. I have a strong passion for technology and programming, and I am skilled in a wide range of programming languages and frameworks.
 
-Here are some ideas to get you started:
+### 💻 Programming Skills
+- **Languages:** C, Java, Python, SQL
+- **Web Development:**
+  - Java Full Stack (Spring Boot, Microservices)
+  - Django
+  - MERN Stack (MongoDB, Express, React, Node.js)
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Databases:** SQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Expertise
+- **Data Structures and Algorithms**
+- **Machine Learning:** Proficient in techniques, feature engineering, and model evaluation
+- **Deep Learning:** Familiar with advanced concepts and frameworks like TensorFlow
+
+### 🌱 What I'm Learning
+I am continuously expanding my knowledge and skills in software development, machine learning, and artificial intelligence.
+
+### 📫 How to Reach Me
+- **Email:** 2100031890cseh@gmail.com
+- **LinkedIn:** https://linkedin.com/in/revanth-chandragiri
