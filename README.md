@@ -4,6 +4,7 @@
 I am a Computer Science and Engineering student at KL University with a current CGPA of 9.85. I have a strong passion for technology and programming, and I am skilled in a wide range of programming languages and frameworks.I am committed to constant learning and staying updated on recent advancements in the fields
 
 -📫 You can reach me at <a href="mailto:2100031890cseh@gmail.com">GMail</a>
+
 -📢 Check out my [portfolio](https://revanthc.netlify.app) to see my latest projects and achievements!
 
  
